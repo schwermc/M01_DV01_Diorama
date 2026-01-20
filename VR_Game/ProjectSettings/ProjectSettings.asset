@@ -141,7 +141,10 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 6400151271313661731, guid: 700ae289beb897d47ac0c4fb8505e818, type: 2}
+  - {fileID: -2874807079569860316, guid: c8f5f92a99c724f449a08189cfa38262, type: 2}
+  - {fileID: 11400000, guid: bd9b827515dc8fb46818d24e3c58fe3d, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -163,7 +166,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.SimMetaStudent.VR_Diorama
-    Standalone: com.DefaultCompany.VR-Game
+    Standalone: com.Sim-Meta-Student.VR-Diorama
   buildNumber:
     Standalone: 0
     VisionOS: 0
